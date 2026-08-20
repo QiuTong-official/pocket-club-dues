@@ -14,7 +14,7 @@
 
 ## 下载与安装
 
-推荐从 [GitHub Release v1.0.3](https://github.com/QiuTong-official/pocket-club-dues/releases/tag/v1.0.3) 下载 `掌上部费-1.0.3.apk`。仓库中也保留了一份 [APK 文件](Releases/%E6%8E%8C%E4%B8%8A%E9%83%A8%E8%B4%B9-1.0.3.apk)。下载后，在 Android 系统中允许当前文件来源安装未知应用。
+推荐从 [GitHub Release v1.0.3](https://github.com/QiuTong-official/pocket-club-dues/releases/tag/v1.0.3) 下载 `pocket-club-dues-1.0.3.apk`。仓库中也保留了一份中文文件名的 [APK 文件](Releases/%E6%8E%8C%E4%B8%8A%E9%83%A8%E8%B4%B9-1.0.3.apk)。两者内容和 SHA-256 完全相同。下载后，在 Android 系统中允许当前文件来源安装未知应用。
 
 安装或升级前建议先在应用内完成数据备份。由正式版 `1.0.2` 原位升级到 `1.0.3` 的同签名安装已经在 Android 16 上验证；其他来源或不同签名的旧安装包可能无法直接覆盖安装。
 
