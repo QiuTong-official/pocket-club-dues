@@ -3,7 +3,7 @@
 - GitHub owner：`QiuTong-official`
 - Repository：`pocket-club-dues`
 - Display title：`掌上部费`
-- Visibility：`Private`
+- Visibility：`Public`
 - Default branch：`main`
 - Release tag：`v1.0.3`
 - Android package：`com.pocketledger.app`
